@@ -6,7 +6,7 @@
         "body-parser": "~1.0.0",
         "morgan": "latest",
         "mongoose": "3.8.8",
-        "express-jwt": "0.2.1",
+        "express-jwt": "6.0.0",
         "jsonwebtoken": "0.4.0"
     },
     "engines": {
